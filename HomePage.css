@@ -1,0 +1,57 @@
+my-section {
+
+}
+
+hr {
+  color: #E1DA1E;
+
+}
+.jumbotron {
+  background-color: #2F2F2D;
+
+  ;
+}
+.pull-right {
+  float: right;
+}
+
+
+
+
+.btn:hover {
+  cursor: pointer;
+}
+.container {
+  padding-left: 500px;
+  padding-right: 500px;
+  border: 3px;
+
+}
+
+
+
+
+P {
+  text-align: center;
+  border-collapse: collapse;
+
+
+}
+H1 {
+  text-align: center;
+}
+
+H2 {
+  text-align: center;
+}
+
+H3 {
+  text-align: center;
+}
+
+IMG.displayed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
